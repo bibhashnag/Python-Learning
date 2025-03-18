@@ -18,46 +18,46 @@ This repository serves as a structured and organized approach to learning Python
 
 2. Functions & Modules
 
-Defining Functions
+   - Defining Functions
 
-Arguments & Return Values
+   - Arguments & Return Values
 
-Modules & Packages
+   - Modules & Packages
 
-Python Standard Library
+   - Python Standard Library
 
 3. Data Structures
 
-Lists, Tuples, Sets, Dictionaries
+   - Lists, Tuples, Sets, Dictionaries
 
-Comprehensions
+   - Comprehensions
 
-Sorting & Searching Algorithms
+   - Sorting & Searching Algorithms
 
 4. Object-Oriented Programming (OOP)
 
-Classes & Objects
+   - Classes & Objects
 
-Inheritance, Polymorphism, Encapsulation
+   - Inheritance, Polymorphism, Encapsulation
 
-Magic Methods & Dunder Methods
+   - Magic Methods & Dunder Methods
 
 5. File Handling & Exception Handling
 
-Reading & Writing Files
+   - Reading & Writing Files
 
-Handling Exceptions
+   - Handling Exceptions
 
 6. Modules & Libraries
 
-NumPy, Pandas, Matplotlib
+   - NumPy, Pandas, Matplotlib
 
-Requests, Flask, Django (Basics)
+   - Requests, Flask, Django (Basics)
 
 7. Advanced Topics (To be covered)
 
-- Generators, Decorators
+   - Generators, Decorators
 
-- Multithreading & Multiprocessing
+   - Multithreading & Multiprocessing
 
-- Networking, APIs, Web Scraping
+   - Networking, APIs, Web Scraping
