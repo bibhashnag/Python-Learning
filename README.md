@@ -4,7 +4,7 @@ Welcome to my Python Programming Learning Repository! 🚀 This repository is a 
 
 This repository serves as a structured and organized approach to learning Python. I will be documenting everything I learn, along with code examples, notes, and mini-projects. Feel free to explore and even contribute if you'd like!
 
-📖 Learning Path
+####📖 Learning Path
 
 1. Introduction to Python
 
