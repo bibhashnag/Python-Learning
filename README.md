@@ -8,8 +8,6 @@ This repository serves as a structured and organized approach to learning Python
 
 1. Introduction to Python
 
-   - Setting up Python Environment
-
    - Python Syntax & Variables
 
    - Data Types & Operators
