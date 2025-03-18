@@ -16,7 +16,7 @@ This repository serves as a structured and organized approach to learning Python
 
    - Conditional Statements & Loops
 
-Functions & Modules
+2. Functions & Modules
 
 Defining Functions
 
@@ -26,7 +26,7 @@ Modules & Packages
 
 Python Standard Library
 
-Data Structures
+3. Data Structures
 
 Lists, Tuples, Sets, Dictionaries
 
@@ -34,7 +34,7 @@ Comprehensions
 
 Sorting & Searching Algorithms
 
-Object-Oriented Programming (OOP)
+4. Object-Oriented Programming (OOP)
 
 Classes & Objects
 
@@ -42,22 +42,22 @@ Inheritance, Polymorphism, Encapsulation
 
 Magic Methods & Dunder Methods
 
-File Handling & Exception Handling
+5. File Handling & Exception Handling
 
 Reading & Writing Files
 
 Handling Exceptions
 
-Modules & Libraries
+6. Modules & Libraries
 
 NumPy, Pandas, Matplotlib
 
 Requests, Flask, Django (Basics)
 
-Advanced Topics (To be covered)
+7. Advanced Topics (To be covered)
 
-Generators, Decorators
+- Generators, Decorators
 
-Multithreading & Multiprocessing
+- Multithreading & Multiprocessing
 
-Networking, APIs, Web Scraping
+- Networking, APIs, Web Scraping
