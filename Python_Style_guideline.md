@@ -21,3 +21,38 @@ Here are some basic rules to write python code:
     - Full line comment
     - End of line comment
     - Multiline comment
+  
+### Lexical Structure
+- Lexicon: Its a collection of reserver words, keywords, literals etc.
+- They are converted to tokens
+- Tokens are atomic code elements
+- With tokens the parser creates an abstract syntax tree
+
+### Lexicons(Vocabulary)
+Lexicons are basically the following:
+- Reserve words
+- Identifier
+- Comments
+- Literals
+- Operators
+- Delemiters
+
+### Syntax Rule
+Follow the below syntax rules in python for:
+- Indentation
+- Colons
+- Whitespace
+- Quotation Mark
+- Paranthesis
+- End of Statement
+
+### Semantics
+Semantics in pythons are:
+- Variable assignment
+- Function Calls
+- Control Flow
+- Exception Handling
+- Input/Output
+- Modularization
+
+
